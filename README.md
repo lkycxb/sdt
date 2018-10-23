@@ -1,7 +1,7 @@
-# sdt
-数据传输，基于socket的TCP实现数据的可靠传传输。
-scala data transfer by socket
-scala是和JAVA一样，运行在JVM环境，可供java直接调用。
+# Scala Data Transfer
+
+Scala数据传输，基于Socket的TCP实现数据的可靠传传输。
+Scala是和JAVA一样，运行在JVM环境，打包后可供java直接调用。
 
 开发环境基于win7,idea2017.1.4,jdk1.8.0_51,scala1.8.0_51
 配置文件：
